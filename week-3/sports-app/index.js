@@ -1,3 +1,9 @@
+/**
+ * Author: Cody Skelton
+ * Date: 11.05.2023
+ * Program purpose is to gain familiarity with local Node modules
+ */
+
 var teamManager = require('./team-manager.js');
 
 teams = teamManager.getTeams();
