@@ -23,6 +23,3 @@ function displayTeam(team) {
 }
 
 module.exports = { getTeams, getTeam, displayTeam }
-
-console.log(displayTeam(teams[1]));
-console.log(displayTeam(getTeam("Texas A&M")));
